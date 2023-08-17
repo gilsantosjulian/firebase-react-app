@@ -1,0 +1,21 @@
+/* Content Body */
+.content-body {
+  padding: 2px 16px;
+}
+
+/* Content */
+.item-container {}
+
+.item-content {
+  border-bottom: 1px solid gray;
+  padding: 16px 0;
+}
+
+.total-amount {
+  margin-top: 30px;
+}
+
+.total-amount-container {
+  display: flex;
+  justify-content: space-between;
+}

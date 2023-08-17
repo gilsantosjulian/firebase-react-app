@@ -1,0 +1,53 @@
+.form-container {
+  margin-top: 20px;
+  padding: 2px 16px;
+}
+
+.form-content {
+  display: flex;
+  justify-content: space-between;
+}
+
+.form-button {
+  background: none;
+  cursor: pointer;
+  outline: inherit;
+  border: 1px solid #8a2b06;
+  padding: 0px 20px;
+  border-radius: 50px;
+  font-size: 20px;
+  color: #8a2b06;
+}
+
+.form-button-confirm {
+  background: #8a2b06;
+  color: white;
+  cursor: pointer;
+  outline: inherit;
+  border: 1px solid #8a2b06;
+  padding: 0px 20px;
+  border-radius: 50px;
+  font-size: 20px;
+}
+
+.input-label {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+input {
+  width: 400px;
+}
+
+.input-content {
+  margin-top: 10px;
+}
+
+.inputs-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.error {
+  color: #8a2b06;
+}
